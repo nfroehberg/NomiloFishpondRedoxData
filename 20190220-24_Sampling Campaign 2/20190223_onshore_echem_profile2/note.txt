@@ -1,0 +1,3 @@
+electrode used: NF18
+core: second core from shallower part of Nomilo fishpond
+swi at  ~-66mm

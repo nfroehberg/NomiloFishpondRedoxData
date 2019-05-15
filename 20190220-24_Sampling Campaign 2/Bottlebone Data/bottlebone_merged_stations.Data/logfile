@@ -1,0 +1,9 @@
+2019-04-01T14:21:32	Nico@NICO-THINK	CREATE
+2019-04-01T14:21:40	Nico@NICO-THINK	IMPORT	14 station(s) imported from C:/Users/Nico/Documents/Nomilo 2019/Bottlebone Data/bottlebone_merged_stations.csv (last modified: 2019-04-01T14:20:49 | byte size: 11417972 | MD5: 6c9c0db8fd3c4aa89ef4aa14509bd2e4)
+2019-04-01T14:24:45	Nico@NICO-THINK	DELETESTATION	Station(s)={[6: bottlebone_merged_stations.csv 4 (C)]}
+2019-04-01T14:25:12	Nico@NICO-THINK	DELETESTATION	Station(s)={[7: bottlebone_merged_stations.csv 5 (C)]}
+2019-04-01T14:25:33	Nico@NICO-THINK	DELETESTATION	Station(s)={[8: bottlebone_merged_stations.csv 6 (C)]}
+2019-04-01T14:26:02	Nico@NICO-THINK	DELETESTATION	Station(s)={[3: bottlebone_merged_stations.csv 10 (C)]}
+2019-04-01T14:26:23	Nico@NICO-THINK	DELETESTATION	Station(s)={[2: bottlebone_merged_stations.csv 9 (C)]}
+2019-04-01T14:26:44	Nico@NICO-THINK	DELETESTATION	Station(s)={[9: bottlebone_merged_stations.csv 2 (C)]}
+2019-04-01T14:27:04	Nico@NICO-THINK	DELETESTATION	Station(s)={[1: bottlebone_merged_stations.csv 8 (C)]}

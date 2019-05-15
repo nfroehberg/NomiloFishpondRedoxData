@@ -1,0 +1,62 @@
+
+[General]
+CollectionFormat = ODVCF6
+DataField = Ocean
+DataType = Profiles
+NumberOfMetaVariables = 14
+NumberOfVariables = 34
+PrimaryVariableIndex = 28
+SampleQualityFlagSchema = ODV
+StationQualityFlagSchema = ODV
+
+[Meta Variables]
+0001 = Cruise;;INDEXED_TEXT;4;0;0;ODV;METACRUISE;
+0002 = Station;;TEXT;21;0;0;ODV;METASTATION;
+0003 = Type;;TEXT;2;0;0;ODV;METATYPE;
+0004 = Longitude;degrees_east;FLOAT;4;3;0;ODV;METALONGITUDE;
+0005 = Latitude;degrees_north;FLOAT;4;3;0;ODV;METALATITUDE;
+0006 = Year;;SHORT;2;0;0;ODV;METAYEAR;
+0007 = Month;;BYTE;1;0;0;ODV;METAMONTH;
+0008 = Day;;BYTE;1;0;0;ODV;METADAY;
+0009 = Hour;;BYTE;1;0;0;ODV;METAHOUR;
+0010 = Minute;;BYTE;1;0;0;ODV;METAMINUTE;
+0011 = Second;;FLOAT;4;0;0;ODV;METASECOND;
+0012 = Accession Number;;UNSIGNED_INTEGER;4;0;0;ODV;METAACCESSIONNUMBER;
+0013 = PrimaryVarMin;;FLOAT;4;2;0;ODV;METAPRIMVARMIN;
+0014 = PrimaryVarMax;;FLOAT;4;2;0;ODV;METAPRIMVARMAX;
+
+[Variables]
+0001 = Conductivity;;FLOAT;4;2;0;ODV;BASIC;
+0002 = Density;;FLOAT;4;2;0;ODV;BASIC;
+0003 = Salinity;;FLOAT;4;2;0;ODV;BASIC;
+0004 = SN;;FLOAT;4;2;0;ODV;BASIC;
+0005 = Soundspeed;;FLOAT;4;2;0;ODV;BASIC;
+0006 = Temperature;;FLOAT;4;2;0;ODV;BASIC;
+0007 = ts;;FLOAT;4;2;0;ODV;BASIC;
+0008 = p_int;;FLOAT;4;2;0;ODV;BASIC;
+0009 = rh_int;;FLOAT;4;2;0;ODV;BASIC;
+0010 = t_int;;FLOAT;4;2;0;ODV;BASIC;
+0011 = Chlorophyll;;FLOAT;4;2;0;ODV;BASIC;
+0012 = date;;FLOAT;4;2;0;ODV;BASIC;
+0013 = Thermistor;;FLOAT;4;2;0;ODV;BASIC;
+0014 = time;;FLOAT;4;2;0;ODV;BASIC;
+0015 = Turbidity;;FLOAT;4;2;0;ODV;BASIC;
+0016 = AirSaturation;;FLOAT;4;2;0;ODV;BASIC;
+0017 = O2Concentration;;FLOAT;4;2;0;ODV;BASIC;
+0018 = SN_bottlebone.optode;;FLOAT;4;2;0;ODV;BASIC;
+0019 = Temperature_bottlebone.optode;;FLOAT;4;2;0;ODV;BASIC;
+0020 = p;;FLOAT;4;2;0;ODV;BASIC;
+0021 = rh;;FLOAT;4;2;0;ODV;BASIC;
+0022 = t;;FLOAT;4;2;0;ODV;BASIC;
+0023 = alt;;FLOAT;4;2;0;ODV;BASIC;
+0024 = ts_gps;;FLOAT;4;2;0;ODV;BASIC;
+0025 = alx;;FLOAT;4;2;0;ODV;BASIC;
+0026 = b;;FLOAT;4;2;0;ODV;BASIC;
+0027 = Deg.C;;FLOAT;4;2;0;ODV;BASIC;
+0028 = depth_m;;FLOAT;4;2;0;ODV;BASIC;
+0029 = dt;;FLOAT;4;2;0;ODV;BASIC;
+0030 = g;;FLOAT;4;2;0;ODV;BASIC;
+0031 = kPa;;FLOAT;4;2;0;ODV;BASIC;
+0032 = r;;FLOAT;4;2;0;ODV;BASIC;
+0033 = w;;FLOAT;4;2;0;ODV;BASIC;
+0034 = wlx;;FLOAT;4;2;0;ODV;BASIC;

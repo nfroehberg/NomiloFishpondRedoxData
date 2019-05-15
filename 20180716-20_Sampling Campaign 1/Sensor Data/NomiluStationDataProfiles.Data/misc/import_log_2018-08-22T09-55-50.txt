@@ -1,0 +1,33 @@
+	-----File Import Start
+	
+	>>Collection:	C:/Users/Nico/OneDrive/Hawaii/Data/Sampling Campaign 1/cast/data/Combined/NomiluStationDataProfiles
+	
+	Variables:
+		1: ts	
+		2: depth	
+		3: p	
+		4: dt	
+		5: Toptode	
+		6: O2Concentration	
+		7: AirSaturation	
+		8: SNoptode	
+		9: Tec	
+		10: Conductivity	
+		11: Salinity	
+		12: SNec	
+		13: Chlorophyll	
+		14: Turbidity	
+		15: pW	
+		16: SA	
+		17: rho	
+		18: Z	
+		19: O2Comp	
+	
+	ADD file: C:/Users/Nico/OneDrive/Hawaii/Data/Sampling Campaign 1/cast/data/Combined/NomiluStationDataProfiles.csv
+	20 station(s) read from file.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1

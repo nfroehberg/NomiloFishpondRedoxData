@@ -1,0 +1,25 @@
+	-----File Import Start
+	
+	>>Collection:	C:/Users/Nico/OneDrive/Hawaii/Data/Sampling Campaign 1/cast/data/Interpolated/Nomilu3DInterpolatedSections
+	
+	Variables:
+		1: Depth	
+		2: Chlorophyll	
+		3: Conductivity	
+		4: Oxygen	
+		5: Density	
+		6: Salinity	
+		7: Temperature	
+		8: Toptode	
+		9: Turbidity	
+		10: Normalized Distance	
+		11: Number of data used	
+	
+	ADD file: C:/Users/Nico/OneDrive/Hawaii/Data/Sampling Campaign 1/cast/data/Interpolated/Nomilu3DInterpolatedSections.csv
+	756 station(s) read from file.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1

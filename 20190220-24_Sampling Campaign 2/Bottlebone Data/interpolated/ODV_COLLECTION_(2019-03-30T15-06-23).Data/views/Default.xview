@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<View xview="0.19" collection="ODV_COLLECTION_(2019-03-30T15-06-23)">
+<GeographicMap>
+<MapDomain lat_min="21.8844" lon_max="200.475" lat_max="21.8886" lon_min="200.471"/>
+<MapLayerSeries name="KauaiNomiluFishpond">
+<LayerSet id="1">
+<Layer name="Backgrd"/>
+<Layer name="7m" line_color="0"/>
+<Layer name="6m" line_color="0"/>
+<Layer name="5m" line_color="0"/>
+<Layer name="4m" line_color="0"/>
+<Layer name="3m" line_color="0"/>
+<Layer name="2m" line_color="0"/>
+<Layer name="1m" line_color="0"/>
+</LayerSet>
+<LayerSet id="3">
+<Layer name="World" line_color="17"/>
+</LayerSet>
+</MapLayerSeries>
+</GeographicMap>
+<MapWindow>
+<Symbol color="1" size="0" type="0" small_size="0.4"/>
+<Window>
+<Geometry y_length_bb="6.6" y_offset_bb="1" y_bottom="21.88436" x_right="200.47453" y_projection="100" x_offset_bb="1" x_length_bb="8.5" x_projection="100" x_left="200.47116" y_top="21.88859"/>
+</Window>
+</MapWindow>
+<Section bathymetry_name="Nomilu.nc" width="4e-6">
+<xNodes>200.472,200.474</xNodes>
+<yNodes>21.8855,21.8882</yNodes>
+</Section>
+<PickedStations>
+<Station frame_color="4" line_color="4" symbol_type="0" sequence_id="1" line_style="0" fill_color="4" frame_width="1" text_alignment="5"/>
+</PickedStations>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--AirSaturation-->
+<zAxis var_id="1" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Gridding draw_shaded="T" y_scale_length="2.2" auto_scale_lengths="F" x_scale_length="1.2"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="4" y_offset_bb="15.4" y_bottom="7" x_right="0.349428" x_offset_bb="2.6" x_length_bb="10.2" x_left="0" y_top="0"/>
+<ColorScale z_range_start="0" z_range_end="200"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--O2Concentration [unknown units]-->
+<zAxis var_id="6" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Gridding draw_shaded="T" y_scale_length="2.2" auto_scale_lengths="F" x_scale_length="1.2"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="4" y_offset_bb="9.5" y_bottom="7" x_right="0.349428" x_offset_bb="2.6" x_length_bb="10.2" x_left="0" y_top="0"/>
+<ColorScale z_range_start="0" z_range_end="500"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--Conductivity [unknown units]-->
+<zAxis var_id="8" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Gridding draw_shaded="T" y_scale_length="2.2" auto_scale_lengths="F" x_scale_length="1.2"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="4" y_offset_bb="15.4" y_bottom="7" x_right="0.349428" x_offset_bb="16.5" x_length_bb="10.2" x_left="0" y_top="0"/>
+<ColorScale z_range_start="50" z_range_end="55"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--Chlorophyll [unknown units]-->
+<zAxis var_id="4" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Gridding draw_shaded="T" y_scale_length="2.2" auto_scale_lengths="F" x_scale_length="1.2"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="4" y_offset_bb="9.5" y_bottom="7" x_right="0.349428" x_offset_bb="16.5" x_length_bb="10.2" x_left="0" y_top="0"/>
+<ColorScale z_range_start="100" z_range_end="400"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--Temperature [unknown units]-->
+<zAxis var_id="10" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Symbol color="0" size="2.2" type="0" small_size="1"/>
+<Gridding draw_shaded="T" y_scale_length="2.3" auto_scale_lengths="F" x_scale_length="1.3"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="5.5" y_offset_bb="1.5" y_bottom="6.5" x_right="0.349428" x_offset_bb="12" x_length_bb="6" x_left="0" y_top="0"/>
+<ColorScale z_range_start="20" z_range_end="42.5"/>
+</Window>
+</DataWindow>
+<DataWindow>
+<AxisVariables>
+<!--Section Distance [km]-->
+<xAxis var_id="200000" is_reversed="F" var_list="1"/>
+<!--Depth-->
+<yAxis var_id="0" is_reversed="T" var_list="1"/>
+<!--Salinity [psu]-->
+<zAxis var_id="7" is_reversed="F" var_list="1"/>
+</AxisVariables>
+<Modes plot_mode="7" window_type="0" window_mode="2"/>
+<Gridding draw_shaded="T" y_scale_length="2.2" auto_scale_lengths="F" x_scale_length="1.2"/>
+<BadEstimateHiding max_distance="3" hide="T"/>
+<DataMark color="17" size="0.2"/>
+<Window>
+<Geometry y_length_bb="5.5" y_offset_bb="1.5" y_bottom="7" x_right="0.349428" x_offset_bb="21" x_length_bb="6" x_left="0" y_top="0"/>
+<ColorScale z_range_start="27" z_range_end="38"/>
+</Window>
+</DataWindow>
+<BasicVariables>
+<!--Depth-->
+<Variable var_id="0" min_value="0" max_value="7"/>
+<!--AirSaturation-->
+<Variable var_id="1" min_value="0" max_value="200"/>
+<!--Normalized Distance-->
+<Variable var_id="2" min_value="0" max_value="9"/>
+<!--Number of data used-->
+<Variable var_id="3" min_value="0" max_value="5500"/>
+<!--Chlorophyll [unknown units]-->
+<Variable var_id="4" min_value="100" max_value="400"/>
+<!--Turbidity [unknown units]-->
+<Variable var_id="5" min_value="250" max_value="650"/>
+<!--O2Concentration [unknown units]-->
+<Variable var_id="6" min_value="0" max_value="500"/>
+<!--Salinity [psu]-->
+<Variable var_id="7" min_value="27" max_value="39"/>
+<!--Conductivity [unknown units]-->
+<Variable var_id="8" min_value="50" max_value="55"/>
+<!--Density [unknown units]-->
+<Variable var_id="9" min_value="1000" max_value="1050"/>
+<!--Temperature [unknown units]-->
+<Variable var_id="10" min_value="20" max_value="42.5"/>
+</BasicVariables>
+<IsoSurfaceVariables>
+<!--Depth @ Depth=first-->
+<IsoVariable var_id="0" surface_value="first" surface_var_id="0"/>
+<!--AirSaturation @ Depth=first-->
+<IsoVariable var_id="1" surface_value="first" surface_var_id="0"/>
+<!--Normalized Distance @ Depth=first-->
+<IsoVariable var_id="2" surface_value="first" surface_var_id="0"/>
+<!--Number of data used @ Depth=first-->
+<IsoVariable var_id="3" surface_value="first" surface_var_id="0"/>
+</IsoSurfaceVariables>
+</View>

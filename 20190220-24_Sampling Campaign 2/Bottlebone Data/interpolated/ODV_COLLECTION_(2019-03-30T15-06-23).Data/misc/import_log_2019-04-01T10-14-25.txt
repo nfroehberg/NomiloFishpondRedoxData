@@ -1,0 +1,25 @@
+	-----File Import Start
+	
+	>>Collection:	C:/Users/Nico/Documents/Nomilo 2019/Bottlebone Data/interpolated/ODV_COLLECTION_(2019-03-30T15-06-23)
+	
+	Variables:
+		1: Depth	
+		2: AirSaturation	
+		3: Normalized Distance	
+		4: Number of data used	
+		5: Chlorophyll [µg/l]	
+		6: Turbidity [ntu]	
+		7: Oxygen [µM]	
+		8: Salinity [psu]	
+		9: Conductivity [unknown units]	
+		10: Density [unknown units]	
+		11: Temperature [°C]	
+	
+	ADD file: C:/Users/Nico/Documents/Nomilo 2019/Bottlebone Data/interpolated/ODV_grid_est_Density.txt
+	756 station(s) processed successfully; 0 station(s) failed.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1

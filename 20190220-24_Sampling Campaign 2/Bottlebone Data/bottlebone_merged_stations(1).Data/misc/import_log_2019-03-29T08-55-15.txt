@@ -1,0 +1,48 @@
+	-----File Import Start
+	
+	>>Collection:	C:/Users/Nico/Documents/Nomilo 2019/Bottlebone Data/bottlebone_merged_stations(1)
+	
+	Variables:
+		1: Conductivity	
+		2: Density	
+		3: Salinity	
+		4: SN	
+		5: Soundspeed	
+		6: Temperature	
+		7: ts	
+		8: p_int	
+		9: rh_int	
+		10: t_int	
+		11: Chlorophyll	
+		12: date	
+		13: Thermistor	
+		14: time	
+		15: Turbidity	
+		16: AirSaturation	
+		17: O2Concentration	
+		18: SN_bottlebone.optode	
+		19: Temperature_bottlebone.optode	
+		20: p	
+		21: rh	
+		22: t	
+		23: alt	
+		24: ts_gps	
+		25: alx	
+		26: b	
+		27: Deg.C	
+		28: depth_m	
+		29: dt	
+		30: g	
+		31: kPa	
+		32: r	
+		33: w	
+		34: wlx	
+	
+	ADD file: C:/Users/Nico/Documents/Nomilo 2019/Bottlebone Data/bottlebone_merged_stations.csv
+	13 station(s) read from file.
+	
+	
+	-----File Import End
+	
+	
+	IMPORT FILE SUMMARY: Total=1	Used=1
